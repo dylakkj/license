@@ -1,7 +1,7 @@
 {
     "authorized_ips": [
         {
-            "ip": "189.127.164.5",
+            "ip": "189.127.164.3",
             "owner": "Servidor Exemplo",
             "expires": "2027-12-31"
         },
