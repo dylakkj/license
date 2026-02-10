@@ -1,0 +1,10 @@
+{
+    "authorized_ips": [
+        {
+            "ip": "123.456.789.0",
+            "owner": "Servidor Exemplo",
+            "expires": "2027-12-31"
+        },
+        "555.666.777.888"
+    ]
+}
