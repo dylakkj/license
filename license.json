@@ -5,6 +5,10 @@
             "owner": "Servidor Exemplo",
             "expires": "2027-12-31"
         },
-        "555.666.777.888"
+        {
+            "ip": "104.234.119.95",
+            "owner": "Hype Roleplay",
+            "expires": "2027-12-31"
+        }
     ]
 }
