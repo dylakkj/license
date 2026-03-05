@@ -15,5 +15,12 @@
             "owner": "Hype Roleplay",
             "expires": "2027-12-31"
         }
+    ],
+    "authorized_licenses": [
+        {
+            "key": "AYX-TESTPC-2025-X9K4M",
+            "owner": "PC de Testes",
+            "expires": "2027-12-31"
+        }
     ]
 }
