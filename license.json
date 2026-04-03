@@ -15,6 +15,11 @@
             "ip": "181.215.254.47",
             "owner": "Connect Hype",
             "expires": "2027-12-31"
+        },
+        {
+            "ip": "177.54.151.10",
+            "owner": "Pc teste",
+            "expires": "2027-12-31"
         }
     ],
     "authorized_licenses": [
