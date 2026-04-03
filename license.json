@@ -1,20 +1,10 @@
 {
     "authorized_ips": [
-        /* {
-            "ip": "181.215.236.230",
-            "owner": "Hype Development",
-            "expires": "2027-12-31"
-        }, */
         {
             "ip": "181.215.254.24",
             "owner": "Hype Roleplay",
             "expires": "2027-12-31"
         }
-        /* {
-            "ip": "181.215.254.47",
-            "owner": "Connect Hype",
-            "expires": "2027-12-31"
-        } */
     ],
     "authorized_licenses": [
         {
