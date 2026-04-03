@@ -3,8 +3,7 @@
         {
             "ip": "181.215.236.230",
             "owner": "Hype Development",
-            "expires": "2027-12-31",
-            "dev": true
+            "expires": "2027-12-31"
         },
         {
             "ip": "181.215.254.24",
@@ -19,7 +18,8 @@
         {
             "ip": "177.54.151.10",
             "owner": "Pc teste",
-            "expires": "2027-12-31"
+            "expires": "2027-12-31",
+            "dev": true
         }
     ],
     "authorized_licenses": [
