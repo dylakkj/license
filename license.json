@@ -3,7 +3,8 @@
         {
             "ip": "181.215.236.230",
             "owner": "Hype Development",
-            "expires": "2027-12-31"
+            "expires": "2027-12-31",
+            "dev": true
         },
         {
             "ip": "181.215.254.24",
@@ -20,12 +21,13 @@
         {
             "key": "AYX-TESTPC-2025-X9K4M",
             "owner": "PC de Testes",
-            "expires": "2027-12-31"
+            "expires": "2027-12-31",
+            "dev": true
         },
         {
             "key": "AYX-HSTUDIO-2026-X9K4F",
             "owner": "Hype Studio",
             "expires": "2027-12-31"
-        },
+        }
     ]
 }
