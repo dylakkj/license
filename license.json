@@ -9,6 +9,11 @@
             "ip": "181.215.254.47",
             "owner": "Connect Hype",
             "expires": "2027-12-31"
+        },
+        {
+            "ip": "181.215.236.230",
+            "owner": "Development Hype",
+            "expires": "2027-12-31"
         }
     ],
     "authorized_licenses": [
